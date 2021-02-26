@@ -10823,7 +10823,7 @@ a.text-dark:hover, a.text-dark:focus {
   h3 {
         page-break-after: avoid;
     }
-  @    page {
+  @page {
         size: a3;
     }
 
@@ -29305,7 +29305,7 @@ body.box-layout .pcoded-navbar.theme-horizontal ~ .pcoded-header {
     border-right: 1px solid #4cb6e7;
 }
 
-.table-bordered tr,
+.table-bordered tr
   {
     border: 1px solid #4cb6e7;
 }
